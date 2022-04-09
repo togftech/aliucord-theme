@@ -2,11 +2,11 @@
     "manifest": {
         "name": "YABT Accent Premade Template",
         "version": "1.0.0",
-        "author": "Rhy#1752",
+        "author": "TOGFTECH",
         "license": "MIT"
     },
     "background": {
-        "url": "https:\/\/cdn.discordapp.com\/attachments\/917244146375344248\/921331500358696990\/yaat.jpg",
+        "url": "https://cdn.discordapp.com/attachments/894360300713803816/962476970040508426/Marin-Kitagawa-Phone-Wallpaper.jpg",
         "overlay_alpha": 120
     },
     "fonts": {},
